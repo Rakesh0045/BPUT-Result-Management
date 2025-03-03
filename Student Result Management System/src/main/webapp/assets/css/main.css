@@ -18,6 +18,16 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+
+	#me a{
+		text-decoration: none;
+		
+	}
+	
+	#me a::hover{
+		opacity: 100%;
+		color: cyan;
+	}
 	
 	.biju{
 		padding-right: 20px;
